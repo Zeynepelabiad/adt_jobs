@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><title>Plot</title></head>
+
+<style>
+  body
+  {
+    background-image: url('../static/images/bgcolor.jpg');
+}
+</style>
+<body>
+
+<h1>Visualization</div>
+  <button name="home" style="background-color:orange;border-color: burlywood; color:white"  method="POST" onclick="window.location.href='{{ url_for( 'home') }}';" class="button">Home Page</button>
+</h1>
+
+<img src="{{ plot_url }}">
+
+
+
+</table>
+</body>
+</html>

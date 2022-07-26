@@ -1,0 +1,655 @@
+p_date,job_title,company_name,company_score,city,state,est_wage
+30d,"Data Analyst",Hulu,3.9,"Santa Monica",CA,$61856-$90999
+9d,"Data Analyst",Arkestro,5,"San Francisco",CA,$64781-$94842
+24h,"Data Analyst",Splunk,4.1,"San Diego",CA,$58499-$87771
+1d,"Data Analyst","FocusKPI Inc.",3.3,"Los Angeles",CA,$54315-$83145
+1d,"Data Analyst","Tripoint Solutions",4.5,"Silver Spring",MD,$65000-$75000
+24h,"Data Analyst",Splunk,4.1,McLean,VA,$61026-$90957
+1d,"Data Analyst","Tripoint Solutions",4.5,Arlington,VA,$65000-$75000
+30d,"Data Analyst",Adobe,4.4,"New York",NY,$105200-$136600
+6d,"Data Analyst","A-V Services Inc.",3.8,"New York",NY,$66969-$103057
+12d,"Data Analyst","Student Leadership Network",4.4,"New York",NY,$70000-$80000
+30d,"Data Analyst","Planned Parenthood Metropolitan NJ",3.5,Newark,NJ,$57000-$70000
+30d,"Data Analyst","Excel Impact",5,"New York State",NY,$90000-$100000
+30d,"Data Analyst","Excel Impact",5,Florida,FL,$90000-$100000
+24h,"Data Analyst",Splunk,4.1,Miami,FL,$52581-$79423
+30d,"Data Analyst","CAE Inc.",3.7,Tampa,FL,$54384-$78592
+30d,"Data Analyst","Brooks Bell",3,Raleigh,NC,$56955-$81115
+30d,"Data Analyst","MIAC Analytics",3.5,Charlotte,NC,$50000-$70000
+20d,"Data Analyst","University of North Carolina at Chapel Hill",3.9,"Chapel Hill",NC,$74500-$90000
+30d,"Data Analyst",Viasat,4.2,Atlanta,GA,$90000-$110000
+24h,"Data Analyst",Splunk,4.1,Boston,MA,$62181-$90692
+30d,"Data Analyst",Deloitte,4,Boston,MA,$61858-$84457
+24h,"Data Analyst","Northeastern University",4.3,Boston,MA,$55866-$84089
+30d,"Data Analyst","Geode Capital Management",3.6,Boston,MA,$62184-$91481
+30d,"Data Analyst","Excel Impact",5,Michigan,MI,$90000-$100000
+15d,"Data Analyst","Alteryx Inc.",4,"Ann Arbor",MI,$56569-$81250
+30d,"Data Analyst","Excel Impact",5,Texas,TX,$90000-$100000
+30d,"Data Analyst","Excel Impact",5,Ohio,OH,$90000-$100000
+24h,"Data Analyst",Splunk,4.1,Chicago,IL,$58558-$85252
+22d,"Data Analyst","Martin Brower",3.6,Rosemont,IL,$50254-$70424
+30d,"Data Analyst",Luminex,3.3,Northbrook,IL,$59898-$78761
+30d,"Data Analyst",Smartsheet,4.3,Seattle,WA,$65132-$92999
+6d,"Python Developer with Data Science","Ventechsoft INC",5,"California City",CA,$87215-$138469
+1d,"Data Scientist",Atlassian,4.7,"Mountain View",CA,$105100-$148697
+4d,"Data Scientist",Wish,3.3,"San Francisco",CA,$126561-$180062
+30d,"Data Scientist",Upgrade,3.8,"San Francisco",CA,$106265-$151911
+1d,"Data Scientist","Scripps Health",4,"San Diego",CA,$78746-$116894
+1d,"Data Scientist","FocusKPI Inc.",3.3,"San Bruno",CA,$90617-$130727
+30d,"Data Scientist",Ezoic,4.5,Carlsbad,CA,$84670-$121135
+30d,"Data Scientist","Lawrence Livermore National Laboratory",4.4,Livermore,CA,$96685-$144965
+24h,"Data Scientist",Cutera,2.8,Brisbane,CA,$107178-$162013
+6d,"Data Scientist",Americor,3.6,Irvine,CA,$75206-$110412
+18d,"Data Scientist","Stanislaus County",3.6,Stanislaus,CA,$81078-$98571
+8d,"Data Scientist","Cheetah Technologies",4.1,Pleasanton,CA,$150000-$160000
+30d,"Data Scientist","Sealing Technologies Inc.",3.5,"Silver Spring",MD,$83710-$116100
+30d,"Data Scientist",Deloitte,4,McLean,VA,$89351-$119403
+5d,"Data Scientist",SYSTEMTEC,4.4,Richmond,VA,$110000-$120000
+30d,"Data Scientist","Sealing Technologies Inc.",3.5,Arlington,VA,$83710-$116100
+1d,"Data Scientist","Grant Thornton",3.9,Arlington,VA,$93375-$128655
+4d,"Data Scientist",CyberCoders,4.1,Chantilly,VA,$140000-$160000
+24h,"Data Scientist",Lumin,4.8,Charlottesville,VA,$86440-$116442
+5d,"Data Scientist",Verizon,3.9,Ashburn,VA,$90839-$128319
+29d,"Data Scientist","Calhoun International LLC",3.8,Quantico,VA,$76258-$115258
+30d,"Data Scientist","BAE Systems",3.8,Korea,VA,$90554-$127516
+2d,"Data Scientist",CyberCoders,4.1,"New York",NY,$110000-$130000
+1d,"Data Scientist","Insight Global",4,"New York",NY,$130000-$150000
+24h,"Data Scientist","Paramount Networks International",3.8,"New York",NY,$96027-$142378
+11d,"Data Scientist","JPMorgan Chase Bank N.A.",3.7,"New York",NY,$94785-$138953
+30d,"Data Scientist",Nike,4.2,"New York",NY,$100221-$141711
+11d,"Data Scientist","Neuberger Berman",4,"New York",NY,$98079-$146082
+30d,"Data Scientist",MARS,4.2,Newark,NJ,$93439-$129763
+21d,"Data Scientist","TBC Corporation",3.1,"Palm Beach Gardens",FL,$86909-$123085
+1d,"Data Scientist","Insight Global",4,Sunrise,FL,$130000-$150000
+24h,"Data Scientist",CyberCoders,4.1,Miami,FL,$90000-$120000
+1d,"Data Scientist","Trazi Ventures",5,Orlando,FL,$81590-$119412
+30d,"Data Scientist","PGA Tour",4.4,"Ponte Vedra Beach",FL,$73448-$106391
+30d,"Data Scientist","Simplex info systems Inc",3.7,Tampa,FL,$120000-$150000
+30d,"Data Scientist","System One",4.1,Clearwater,FL,$68806-$100637
+5d,"Data Scientist",Hertz,3.1,Estero,FL,$80855-$124945
+5d,"Data Scientist",Verizon,3.9,"Lake Mary",FL,$80968-$122141
+3d,"Data Scientist",CyberCoders,4.1,Charlotte,NC,$100000-$110000
+13d,"Data Scientist","Insight Global",4,Charlotte,NC,$100000-$135000
+30d,"Data Scientist","Endress+Hauser Inc.",4.1,Charlotte,NC,$74179-$110870
+3d,"Data Scientist","QuEST Global Engineering",3.1,Charlotte,NC,$70383-$100726
+30d,"Data Scientist",Lowe's,3.4,Charlotte,NC,$54000-$140000
+30d,"Data Scientist","Hyperspace Ventures",5,Durham,NC,$85905-$124910
+7d,"Data Scientist","Calhoun International LLC",3.8,"Fort Bragg",NC,$86180-$124019
+7d,"Data Scientist","Insight Global",4,Atlanta,GA,$80000-$160000
+30d,"Data Scientist",Visa,4,Atlanta,GA,$87172-$120729
+6d,"Data Scientist",IBM,4.1,Atlanta,GA,$87175-$121338
+30d,"Data Scientist","Loomis Armored US LLC",2.7,Atlanta,GA,$83901-$117871
+30d,"Data Scientist","The RiverStone Group",4.4,Atlanta,GA,$74258-$104348
+30d,"Data Scientist","Amazon Dev Center U.S. Inc.",3.8,Atlanta,GA,$88229-$125027
+24h,"Data Scientist",Equifax,3.9,Atlanta,GA,$86490-$117124
+30d,"Data Scientist","CBL Solutions",4.8,Atlanta,GA,$82425-$117843
+24h,"Data Scientist",CoverMyMeds,3.9,Atlanta,GA,$78521-$109722
+15d,"Data Scientist",Verizon,3.9,Alpharetta,GA,$79723-$111803
+14d,"Data Scientist",DataSeers,4.1,Alpharetta,GA,$71953-$103529
+18d,"Data Scientist","Shaw Industries Group Inc.",3.8,Dalton,GA,$70751-$109486
+21d,"Data Scientist","BlueLinx Corporation",2.9,Marietta,GA,$77540-$107259
+24h,"Data Scientist","Creative Financial Staffing",4.8,Boston,MA,$85000-$105000
+30d,"Data Scientist","Northeastern University",4.3,Boston,MA,$97850-$133851
+1d,"Data Scientist","Archway Health",4.1,Boston,MA,$71777-$95675
+5d,"Data Scientist",MassMutual,3.9,Boston,MA,$90399-$122266
+30d,"Data Scientist",Optum,3.7,Boston,MA,$84915-$112925
+30d,"Data Scientist","Tagup Inc.",4.6,Boston,MA,$90085-$132627
+30d,"Data Scientist",Comcentric,4.5,Boston,MA,$139000-$276000
+30d,"Data Scientist","Schneider Electric",4.2,Andover,MA,$83619-$120369
+30d,"Data Scientist",MIT,4.4,Cambridge,MA,$94908-$130229
+14d,"Data Scientist","Groe Advisors",4.6,Cambridge,MA,$91238-$180000
+30d,"Data Scientist","LG Energy Solution Michigan Inc.",3.1,Westborough,MA,$75661-$106412
+15d,"Data Scientist",SharkNinja,3.2,Needham,MA,$82705-$117260
+30d,"Data Scientist","Endress+Hauser Inc.",4.1,"Ann Arbor",MI,$70148-$104848
+30d,"Data Scientist","Samsung Electronics",3.4,Austin,TX,$88567-$125731
+30d,"Data Scientist","Neiman Marcus",3.4,Dallas,TX,$85543-$119726
+30d,"Data Scientist",Deloitte,4,Houston,TX,$83815-$113502
+30d,"Data Scientist",Ayasdi,3.9,Houston,TX,$85142-$127557
+5d,"Data Scientist",Verizon,3.9,Irving,TX,$85364-$122194
+15d,"Data Scientist",Verizon,3.9,Irving,TX,$81001-$114925
+28d,"Data Scientist",PatientPoint,3.7,Cincinnati,OH,$75528-$109488
+30d,"Data Scientist","FirstEnergy Corp",3.7,Akron,OH,$71754-$102382
+3d,"Data Scientist",CyberCoders,4.1,Powell,OH,$100000-$110000
+1d,"Data Scientist","The Greentree Group",4.4,Fairborn,OH,$68232-$99057
+1d,"Data Scientist","SierTeK Ltd.",4,"Wright Patterson AFB",OH,$87860-$122197
+30d,"Data Scientist",Emerson,3.8,Sidney,OH,$76856-$106118
+4d,"Data Scientist","Venesco LLC",3.6,Dayton,OH,$77000-$95000
+30d,"Data Scientist","LinQuest Corporation",3.8,Beavercreek,OH,$55539-$86735
+30d,"Data Scientist","Westfield Insurance",3.7,"Westfield Center",OH,$85101-$119692
+30d,"Data Scientist","Central Mutual Insurance Company",4.4,"Van Wert",OH,$73190-$106926
+5d,"Data Scientist",Verizon,3.9,Philadelphia,PA,$87207-$123832
+5d,"Data Scientist",Comcast,3.9,Philadelphia,PA,$83633-$117592
+24h,"Data Scientist","Ex Libris",3.7,Philadelphia,PA,$77789-$116848
+24h,"Data Scientist",Clarivate,3.5,Philadelphia,PA,$66163-$102385
+13d,"Data Scientist",Arcadia.io,4.1,Pittsburgh,PA,$77201-$108989
+11d,"Data Scientist","Carnegie Mellon University",4.5,Pittsburgh,PA,$86200-$119573
+30d,"Data Scientist",IKEA,3.8,"Plymouth Meeting",PA,$87019-$122270
+6d,"Data Scientist","MSA The Safety Company",3.1,"Cranberry Twp",PA,$73772-$105960
+30d,"Data Scientist","Lucas Systems Inc.",4.4,Wexford,PA,$69447-$96362
+30d,"Data Scientist","Endress Hauser Inc.",4.1,Chalfont,PA,$73222-$110854
+30d,"Data Scientist",Cubesmart,3.4,Malvern,PA,$75605-$115377
+3d,"Data Scientist",CyberCoders,4.1,Chicago,IL,$100000-$110000
+30d,"Data Scientist",MARS,4.2,Chicago,IL,$94768-$130084
+6d,"Data Scientist","BMO Harris Bank",3.7,Chicago,IL,$86344-$118337
+1d,"Data Scientist",Humanity,3.8,Chicago,IL,$68948-$95827
+4d,"Data Scientist",NielsenIQ,3.9,Chicago,IL,$88066-$118981
+26d,"Data Scientist",TransUnion,4.1,Chicago,IL,$79567-$117601
+1d,"Data Scientist","Winsight LLC",3.4,Chicago,IL,$82824-$114249
+20d,"Data Scientist","Darwill Inc.",4.2,"Oakbrook Terrace",IL,$80000-$120000
+30d,"Data Scientist","American Association of Neurological Surgeons",2.2,"Rolling Meadows",IL,$79120-$110243
+30d,"Data Scientist","Argonne National Laboratory",4.5,Lemont,IL,$81103-$118624
+30d,"Data Scientist",Ameren,4.1,Collinsville,IL,$75369-$102699
+24h,"Data Scientist","Amazon.com Services LLC",3.8,Seattle,WA,$106801-$153620
+21d,"Data Scientist","Boston Consulting Group",4.4,Seattle,WA,$105416-$158677
+30d,"Data Scientist",Comcentric,4.5,Seattle,WA,$125000-$225000
+30d,"Data Scientist",Starbucks,3.8,Seattle,WA,$60803-$96197
+30d,"Data Scientist","Seattle Childrens Hospital",3.8,Seattle,WA,$95202-$138613
+18d,"Data Scientist","Amazon.com Services LLC",3.8,Bellevue,WA,$119300-$160000
+24h,"Data Scientist",Microsoft,4.4,Redmond,WA,$110217-$150832
+30d,"Data Scientist",Exsilio,4,Redmond,WA,$87616-$123264
+5d,"Data Scientist","Schweitzer Engineering Laboratories",4,Pullman,WA,$87961-$126996
+28d,"Data Scientist",BlueScope,3.7,Kalama,WA,$83889-$126678
+24h,"Sr Data Science Engineer",Adobe,4.4,"San Jose",CA,$117312-$161998
+24h,"Sr Data Science Engineer",Adobe,4.4,Seattle,WA,$115954-$158038
+1d,"Marketing Data Scientist",HP,4.2,"Palo Alto",CA,$93818-$128433
+30d,"Data Scientist I",f5,4.2,"San Jose",CA,$109628-$145967
+10d,"Data Scientist I","Stellar MLS",3.9,"Altamonte Springs",FL,$76237-$108219
+24h,"Data Scientist I","Truist Financial",3.4,Atlanta,GA,$80781-$105954
+20d,"Data Scientist I","Bank of America",4,Atlanta,GA,$89739-$123796
+30d,"Data Scientist I","GovStrive LLC",3.2,Atlanta,GA,$81689-$114335
+20d,"Data Scientist I","GM Financial",3.8,"Fort Worth",TX,$76246-$105894
+30d,"Data Science & Analytics Specialist",Cuker,4.1,Carlsbad,CA,$80266-$114711
+30d,"Deep Learning Scientist, Drug Discovery",NVIDIA,4.7,"Santa Clara",CA,$117429-$171383
+1d,"Data Analyst, Customer Success",Square,4.2,"San Francisco",CA,$71421-$104771
+14d,"Vice President, Data Science",Paramount+,3.8,Burbank,CA,$124283-$189258
+30d,"Data Science Manager, Actuarial Data",Uber,4,"San Francisco",CA,$111380-$161908
+30d,"Data Science Manager, Actuarial Data",Uber,4,"New York",NY,$97555-$138232
+24h,"ChemBio Data Scientist","Lawrence Livermore National Laboratory",4.4,Livermore,CA,$92970-$139955
+24h,"Data Scientist (Full-Time)","Stone resource group",4.6,"San Jose",CA,$160000-$250000
+30d,"Predictive Modeling and Data Science Specialist [HYBRID]","Southern California Edison",4.1,Rosemead,CA,$64292-$93345
+11d,"Manager of Data Science, Analytics",Sojern,4.3,"San Francisco",CA,$125129-$175652
+30d,"Data Scientist - OPEN TO 100% REMOTE WORK (US ONLY)",Experian,4.4,"San Diego",CA,$55669-$84915
+30d,"Lead Data Scientist - Customer Data Science",Hulu,3.9,"Santa Monica",CA,$114614-$176911
+12d,"Product Science Manager (Data Science)",Indeed,4.4,"San Francisco",CA,$154000-$224000
+30d,"Director, Data Science",Indeed,4.4,"San Francisco",CA,$253000-$367000
+30d,"Director, Data Science","ManTech International Corporation",4.2,Sterling,VA,$96722-$137466
+26d,"Director, Data Science",Visa,4,Atlanta,GA,$93964-$131391
+6d,"Director, Data Science",Hawkeye,3.4,Dallas,TX,$89844-$127347
+13d,"Director, Data Science","Samsung Electronics",3.4,Plano,TX,$109417-$155737
+30d,"Director, Data Science",Indeed,4.4,Seattle,WA,$253000-$367000
+4d,"Senior Data Scientist - Discovery and Communications",Indeed,4.4,"San Francisco",CA,$155000-$225000
+22d,"LOGISTICS DATA SCIENTIST","Robertson's Ready Mix",3.4,Corona,CA,$64538-$96836
+6d,"Lead Data Engineer",CarParts.com,4.2,Torrance,CA,$130000-$199000
+30d,"Lead Data Engineer","Insight Global",4,Seattle,WA,$92975-$176622
+13d,"Logistics Data Analyst (Hybrid Schedule)","Toyo Tires",3.9,Ontario,CA,$37037-$113836
+1d,"Senior Data Analyst",CyberCoders,4.1,"South San Francisco",CA,$130000-$150000
+1d,"Senior Data Analyst","Dominion Energy",4,Richmond,VA,$70000-$95000
+4d,"Senior Data Analyst",CyberCoders,4.1,"New York",NY,$110000-$120000
+1d,"Senior Data Analyst","Clever Care Health Plan",1.9,"New York",NY,$70524-$96316
+30d,"Senior Data Analyst","Hire With Jarvis",4.9,"North Carolina",NC,$120000-$170000
+24h,"Senior Data Analyst",Deloitte,4,Cincinnati,OH,$72300-$103695
+1d,"Senior Data Analyst",Merck,4.1,"West Point",PA,$73083-$95567
+21d,"Senior Data Analyst",Microsoft,4.4,Redmond,WA,$94194-$122968
+2d,"Data Scientist, AI Engineer,",CyberCoders,4.1,Pasadena,CA,$140000-$180000
+2d,"Mobile Data Analyst",CyberCoders,4.1,"Los Angeles",CA,$120000-$140000
+29d,"Data Collection Specialist - Amazon Astro, Astro","Amazon.com Services LLC",3.8,Sunnyvale,CA,$53771-$77699
+30d,"Data Science Associate","Pacific Investment Management Company LLC",3.7,"Newport Beach",CA,$68266-$103182
+30d,"Data Science Associate","Castleton Commodities International",3.2,Houston,TX,$42080-$60669
+30d,"Associate Data Scientist I","UST Global",4,"San Jose",CA,$82322-$118733
+30d,"Associate Data Scientist I","UST Global",4,Bellevue,WA,$81988-$116393
+15d,"Associate Data Scientist","SameSky Health",3.4,"Los Angeles",CA,$79800-$120910
+7d,"Associate Data Scientist",Visa,4,Ashburn,VA,$82929-$112963
+30d,"Associate Data Scientist","Avis Budget Group",3.4,Parsippany,NJ,$60000-$74000
+30d,"Associate Data Scientist","Zurich Insurance",4,Schaumburg,IL,$76132-$108560
+24h,"Director of Data Science Product Development, Global Analytics and AI- Remote",Experian,4.4,"Costa Mesa",CA,$105967-$157120
+16d,"Data Scientist - Analytics, US Safety",TikTok,3.6,"Los Angeles",CA,$96951-$144419
+21d,"Data Analyst (Remote)","Westport Properties Inc.",4.5,Irvine,CA,$70000-$95000
+30d,"Data Analyst (Remote)",pulseData,5,"New York",NY,$60000-$80000
+30d,"TPM - Data Science Products, DAV Applied Sciences","Amazon.com Services LLC",3.8,"Santa Monica",CA,$67440-$106023
+30d,"Data and Policy Analyst - Statistical Programmer","Acumen LLC",3.5,"Los Angeles",CA,$56817-$79594
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,"San Diego",CA,$101812-$159817
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,"New York",NY,$99586-$152843
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Miami,FL,$87583-$137153
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Morrisville,NC,$87806-$134712
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Atlanta,GA,$96292-$148220
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Boston,MA,$95813-$145491
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Detroit,MI,$91989-$137563
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Dallas,TX,$86148-$131497
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Pittsburgh,PA,$81788-$127675
+21d,"Data Scientist, NAMR People Team","Boston Consulting Group",4.4,Chicago,IL,$92409-$140857
+30d,"Machine Learning Engineer - Risk",Uber,4,Sunnyvale,CA,$110878-$169204
+1d,"REMOTE Machine Learning Operations Engineer","Insight Global",4,"Costa Mesa",CA,$79356-$117378
+1d,"AMPLY Staff Data Scientist, Optimization",BP,3.9,"Mountain View",CA,$117266-$175655
+4d,"Data Scientist - Deep Learning","Bosch Group",3.9,Sunnyvale,CA,$111747-$154823
+30d,"Data Science Engineer, AV Behavior Test",NVIDIA,4.7,"Santa Clara",CA,$113398-$153243
+30d,"Business Analyst","ManTech International Corporation",4.2,Herndon,VA,$61600-$102300
+13d,"Business Analyst","Electrical Components International",3,Southfield,MI,$59936-$81424
+19d,"Business Analyst","Amazon.com Services LLC",3.8,Seattle,WA,$72027-$96803
+1d,"Business Analyst","Blueprint Technologies",3.7,Bellevue,WA,$66977-$89950
+30d,"Senior Acquisition Data Analyst","ManTech International Corporation",4.2,"Silver Spring",MD,$85751-$120348
+30d,"Senior Acquisition Data Analyst","ManTech International Corporation",4.2,Arlington,VA,$85751-$120348
+19d,"Junior Data Scientist - Secret Clearance",Deloitte,4,Rosslyn,VA,$70464-$111236
+24h,"Supervisor, Business Analytics (Business Intelligence & Data Science)","Navy Federal Credit Union",4.1,Vienna,VA,$101500-$142000
+24h,"Supervisor, Business Analytics (Business Intelligence & Data Science)","Navy Federal Credit Union",4.1,Pensacola,FL,$101500-$142000
+6d,"Data Architect","National Geospatial-Intelligence Agency",4,Springfield,VA,$96119-$164102
+30d,"Data Architect","Macquarie Group Limited",4,Philadelphia,PA,$96011-$130021
+30d,"Data Analytics Analyst",Deloitte,4,"Falls Church",VA,$72619-$96150
+6d,"Data Analytics Analyst","BRE Hotels & Resorts",4,"New York",NY,$72561-$100433
+30d,"Data Analytics Analyst",ALDI,3.5,Dublin,OH,$75216-$98460
+30d,"Jr. Data Scientist (Remote Eligible)","Lidl US",3.1,"Silver Spring",MD,$47715-$73379
+30d,"Jr. Data Scientist (Remote Eligible)","Lidl US",3.1,Arlington,VA,$47715-$73379
+14d,"Data Informatics Analyst","Transaction Network Services",4.2,Reston,VA,$73278-$104475
+5d,"Quantitative Analytics Professional   Fair Lending and Data Science (Hybrid Work Schedule)","Freddie Mac",3.9,McLean,VA,$92520-$144908
+3d,"Predictive Modeler II/III (Fraud Data Scientist)","Navy Federal Credit Union",4.1,Vienna,VA,$72300-$142000
+3d,"Predictive Modeler II/III (Fraud Data Scientist)","Navy Federal Credit Union",4.1,Pensacola,FL,$72300-$142000
+1d,"Lead Data Scientist",Gerber,3.3,"Silver Spring",MD,$91343-$130410
+1d,"Lead Data Scientist",Gerber,3.3,Arlington,VA,$91343-$130410
+30d,"Data Analyst - Full Performance","BAE Systems",3.8,Reston,VA,$66930-$95857
+30d,"(Remote) Marketing Data Scientist - Alexandria Virginia","PenFed Credit Union",3.9,Alexandria,VA,$56242-$90653
+10d,"BI Data Visualization Analysts II/III (Enterprise & Data Adoption)","Navy Federal Credit Union",4.1,Vienna,VA,$72300-$142000
+10d,"BI Data Visualization Analysts II/III (Enterprise & Data Adoption)","Navy Federal Credit Union",4.1,Pensacola,FL,$72300-$142000
+30d,"Data Analytics Professional (Hybrid Work Schedule)","Freddie Mac",3.9,McLean,VA,$68220-$97534
+24h,"REMOTE - Data Scientist","Insight Global",4,"Silver Spring",MD,$80630-$117824
+24h,"REMOTE - Data Scientist","Insight Global",4,Arlington,VA,$80630-$117824
+1d,"Data Engineer","Counter Threat Solutions",4.7,McLean,VA,$77069-$114646
+4d,"Data Engineer",CyberCoders,4.1,Reston,VA,$120000-$150000
+30d,"Data Engineer",PCP,2.8,Alexandria,VA,$71103-$107719
+30d,"Data Engineer","Brookfield Renewable Energy US",3.6,"New York",NY,$89843-$136987
+1d,"Data Engineer",Anheuser-Busch,3.8,"New York",NY,$94000-$105750
+14d,"Data Engineer","firstPRO Inc.",4.7,Orlando,FL,$120000-$130000
+13d,"Data Engineer",Lowe's,3.4,Charlotte,NC,$54000-$140000
+11d,"Data Engineer","North Carolina Dept of Health and Human Services",3.7,"Wake Forest",NC,$95596-$167292
+1d,"Data Engineer",CyberCoders,4.1,Boston,MA,$150000-$180000
+30d,"Data Engineer","Spectral MD Inc",4.6,Dallas,TX,$76656-$110265
+1d,"Data Engineer","V-Soft Consulting Group Inc.",4.3,"San Antonio",TX,$84245-$116678
+30d,"Data Engineer",PepsiCo,3.9,Plano,TX,$85000-$90000
+12d,"Data Engineer",PepsiCo,3.9,Plano,TX,$83903-$116244
+30d,"Data Engineer","Macquarie Group Limited",4,Houston,TX,$80987-$118939
+24h,"Data Engineer",CyberCoders,4.1,Beachwood,OH,$90000-$100000
+1d,"Data Engineer","Antra Inc",4.5,Chicago,IL,$65000-$85000
+30d,"Data Engineer",PepsiCo,3.9,Chicago,IL,$85000-$90000
+24h,"Data Engineer","Cognizant Technology Solutions",3.8,Peoria,IL,$78652-$109442
+24h,"Data Engineer",Amazon.com,3.8,Seattle,WA,$71383-$100988
+24h,"Data Science Associate (Remote)","Fannie Mae",4,Reston,VA,$43128-$70742
+30d,"Junior Data Labeler",Deloitte,4,Rosslyn,VA,$46161-$73448
+7d,"Data Scientist, Student Programs","Amazon.com Services LLC",3.8,Arlington,VA,$75296-$103167
+30d,"Data Analyst/Scientist","Virginia Tech",4.3,Roanoke,VA,$57306-$85994
+30d,"US Data Scientist (Remote)","OpenSource Connections",5,Charlottesville,VA,$70401-$107309
+1d,"Data Science Training","Counter Threat Solutions",4.7,McLean,VA,$61794-$98373
+24h,"Research Data Scientist","Metron Inc.",3.9,Reston,VA,$79547-$119102
+30d,"Data Analyst / Scientist - Mostly Remote!","BAE Systems",3.8,Sterling,VA,$53847-$81776
+30d,"Quantitative Analytics Professional - Data Engineering (Hybrid Work Schedule)","Freddie Mac",3.9,McLean,VA,$88658-$122170
+30d,"Quantitative Analytics Professional (Hybrid Work Schedule)","Freddie Mac",3.9,McLean,VA,$92272-$140648
+30d,"Quantitative Analytics Manager (Hybrid Work schedule)","Freddie Mac",3.9,McLean,VA,$95432-$127648
+30d,"Entry Level Azure Data Engineer","Antra Inc",4.5,Sterling,VA,$65000-$120000
+30d,"Entry Data Science Analyst - TS/SCI",KBR,3.8,Chantilly,VA,$55069-$83399
+7d,"Data Developer","Enterprise Knowledge LLC",3.9,Arlington,VA,$61965-$87974
+7d,"Data Developer","Enterprise Knowledge (EK)",3.9,Arlington,VA,$61965-$87974
+9d,"Data Analyst II (Data Science/ML)",Cvent,3.8,McLean,VA,$74805-$100764
+9d,"Data Analyst II (Data Science/ML)",Cvent,3.8,Atlanta,GA,$70023-$95175
+30d,"Data Analytics Professional","Freddie Mac",3.9,McLean,VA,$74160-$103926
+30d,"Postdoctoral Fellow - Data Scientist","Jefferson Lab",3.9,"Newport News",VA,$59500-$89300
+27d,"Post Doctoral Research Associate, Data Science","The Rector & Visitors of the University of Virginia",4.3,Charlottesville,VA,$59624-$80935
+4d,"Junior Cross Functional Data Visualization Developer",Deloitte,4,Rosslyn,VA,$59322-$86528
+30d,"Data Analytics and Visualization Specialist","ManTech International Corporation",4.2,Springfield,VA,$81686-$123771
+30d,"Data Science and Data Engineering","Systems Planning and Analysis Inc.",4.3,Lorton,VA,$77599-$115871
+30d,"Senior Data Analyst / Engineer","ManTech International Corporation",4.2,Sterling,VA,$74807-$103024
+11d,"Data Scientist I/II (Credit Risk)","Navy Federal Credit Union",4.1,Vienna,VA,$101500-$163500
+12d,"Quantitative Analytics Professional","Freddie Mac",3.9,McLean,VA,$102614-$142636
+30d,"Junior Data Scientist","Logistics Management Institute",4.1,"Tysons Corner",VA,$74840-$111500
+1d,"Junior Data Scientist","FocusKPI Inc.",3.3,Boston,MA,$67777-$97184
+7d,"Principal Data Scientist - Resume",Indeed,4.4,"New York",NY,$213000-$309000
+7d,"Principal Data Scientist - Resume",Indeed,4.4,Charlotte,NC,$213000-$309000
+7d,"Principal Data Scientist - Resume",Indeed,4.4,Atlanta,GA,$213000-$309000
+7d,"Principal Data Scientist - Resume",Indeed,4.4,Austin,TX,$213000-$309000
+7d,"Principal Data Scientist - Resume",Indeed,4.4,Chicago,IL,$213000-$309000
+30d,"Senior Data Science Manager - Jobseeker Discovery & Communication",Indeed,4.4,"New York",NY,$198000-$288000
+30d,"Data Analyst- Operational Excellence","Memorial Sloan Kettering Cancer Center",4,"New York",NY,$85279-$121994
+30d,"Sr Data Analyst, AMERICAS","Smart AdServer",4.6,Manhattan,NY,$95000-$115000
+30d,"Associate Director, Data Science","Sky Systems Inc",3.1,"New York",NY,$165000-$175000
+30d,"Associate Director, Data Science","Sky Systems Inc",3.1,Charlotte,NC,$165000-$175000
+5d,"VIE New York City- Data Scientist",L'Oreal,3.9,"New York",NY,$93596-$137310
+3d,"QR Rates Data Analytics Associate in NYC","JPMorgan Chase Bank N.A.",3.7,"New York",NY,$59264-$91956
+7d,"Data Scientist, Optimization","Analytic Partners",3.7,"New York",NY,$100139-$147351
+12d,"Quantitative Analytics & Data Science Specialist",UBS,3.9,"New York",NY,$101452-$140224
+30d,"2022 Graduate Fellow Data Science Co-op",Merck,4.1,Kenilworth,NJ,$66157-$98042
+30d,"Entry-level Data Developer/ Trading Analyst","Quantbot Technologies LP",4.7,"New York",NY,$65000-$75000
+7d,"Data Scientist, Algorithmic Targeting","The New York Times",3.9,"New York",NY,$108700-$167420
+6d,"Finance Data Analyst",UBS,3.9,"New York",NY,$65343-$94463
+30d,"Blackstone Data Science - Private Equity Associate","Blackstone Group",4.1,"New York",NY,$77430-$118861
+7d,"Engineer, A.I. and Data (Canada)","Royal Bank of Canada",4.1,"New York",NY,$61751-$93421
+25d,"Data Analytics Specialist","Federal Reserve Bank of New York",4.4,"New York",NY,$66527-$98727
+30d,"Biostatistician & Data Science Analyst 1","Hospital for Special Surgery",4,"New York",NY,$87197-$126026
+30d,"Data Analyst - Remote","Revolt Media & TV",2.9,"New York",NY,$79553-$118775
+29d,"Data Science Communications Specialist","Biz2Credit Inc",4.2,"New York",NY,$59977-$97367
+30d,"Data and Analytics Specialist [Hybrid]",EquiLend,3.9,"New York",NY,$92161-$131848
+30d,"Analyst, Data and Insights (Audience Analytics)","The New York Times",3.9,"New York",NY,$76376-$106355
+30d,"DVP, Advanced Analytics & Data Science","Saks Off 5th",3.5,"New York",NY,$94038-$126429
+30d,"Associate - Data Scientist, US Data Strategy","Royal Bank of Canada",4.1,"Jersey City",NJ,$87210-$126434
+30d,"Sr. Business Analyst/Data Analyst",Genpact,3.9,"New York",NY,$71055-$99165
+24h,"Training and Placement in Data Engineering, Data Analyst, Data Scientist","TechIntelli Solutions Inc.",4.2,"New York",NY,$60000-$95000
+30d,"Data Scientist III","Conde Nast",3.7,"New York",NY,$113084-$158638
+30d,"Sr. Manager, Data Science & Analytics (Remote)",Quizlet,4,"New York",NY,$171000-$236000
+7d,"Data Science Quality Assurance Senior Associate","JPMorgan Chase Bank N.A.",3.7,"New York",NY,$80995-$120427
+30d,"Data Scientist, Forecasting Science","Amazon.com Services LLC",3.8,"New York",NY,$101015-$147143
+7d,"Data Mining / Staffing Researcher (Will Train)","DAVRON LLC",5,"Land O' Lakes",FL,$30000-$45000
+18d,"VP Data Science and Solutions","Navigate360 Llc",3.9,Tampa,FL,$86310-$129951
+9d,"Manager, Data Science (Remote)",Paramount+,3.8,"Fort Lauderdale",FL,$66975-$112317
+27d,"Data Science Analyst","Vertical Bridge Management LLC",3.5,"Boca Raton",FL,$65147-$94927
+30d,"Data Science Analyst","The Ohio State University Wexner Medical Center",3.8,Columbus,OH,$62701-$93904
+30d,"Data Science Analyst","Advocate Aurora Health",3.8,Barrington,IL,$71638-$94380
+6d,"Jr. UHealth IT Data Scientist - UHealth IT","University of Miami",4,Miami,FL,$57904-$89856
+6d,"Data Scientist, Intelligent Data Products",PSM,3.8,Jupiter,FL,$79565-$116512
+6d,"Data Scientist, Intelligent Data Products","Power Systems Mfg. LLC",3.8,Jupiter,FL,$79565-$116512
+4d,"Data Science Lead Analyst",Citi,3.9,Jacksonville,FL,$86048-$127288
+2d,"Data Science Lead Analyst",Citi,3.9,Irving,TX,$86924-$122200
+28d,"Statistical Data Analyst","University of South Florida",4.1,Tampa,FL,$50000-$61050
+30d,"Technical Staff Security Strategist",Splunk,4.1,Miami,FL,$105013-$171327
+14d,"Data Science Lead",Deloitte,4,"West Palm Beach",FL,$89710-$131311
+11d,"Data Science Lead",Syngenta,4.2,Durham,NC,$106142-$143858
+30d,"Sr. Director - Data Science and Machine Learning",Visa,4,Miami,FL,$102917-$152687
+24h,"Machine Learning Expert Opening #417032","Rose International",4.2,Jacksonville,FL,$51661-$80384
+4d,"Operations Data Analyst","DHL eCommerce",3.8,Weston,FL,$49713-$70467
+1d,"Data Science and Governance Technical Specialist (FL, GA, NC, SC)",IBM,4.1,"Coral Gables",FL,$61050-$93765
+24h,"Data Scientist Co-Op","The Mosaic Company",3.8,Tampa,FL,$76722-$111604
+24h,"Data Analyst - Tampa, FL - SOCOM","Occam Solutions",3.9,Tampa,FL,$65536-$106402
+24h,"US Sr. Data Scientist - NBI_US",Deloitte,4,"Lake Mary",FL,$84994-$119565
+24h,"US Sr. Data Scientist - NBI_US",Deloitte,4,"Grand Rapids",MI,$84670-$115626
+7d,"Manager Data Engineering - REMOTE",Paramount+,3.8,"Fort Lauderdale",FL,$84710-$123597
+30d,"Senior Data Scientist",BankUnited,3.7,"Miami Lakes",FL,$96722-$135841
+30d,"Senior Data Scientist",Brooksource,4.2,Charlotte,NC,$120000-$130000
+30d,"Senior Data Scientist","Blue Cross and Blue Shield of North Carolina",4,Durham,NC,$101514-$134567
+28d,"Senior Data Scientist",Brooksource,4.2,Atlanta,GA,$120000-$160000
+30d,"Senior Data Scientist",Genpact,3.9,Boston,MA,$120000-$140000
+30d,"Senior Data Scientist","Cambridge Consultants Inc",3.8,Boston,MA,$120000-$145000
+30d,"Senior Data Scientist","FRISS | fraud risk & compliance",4.2,Mason,OH,$87306-$121178
+12d,"Senior Data Scientist",Indeed,4.4,Seattle,WA,$147000-$213000
+30d,"Staff Data Scientist- Trust and Safety",Indeed,4.4,Miami,FL,$164000-$238000
+30d,"Staff Data Scientist- Trust and Safety",Indeed,4.4,Chicago,IL,$164000-$238000
+30d,"Cloud Data Engineer - Lead Remote, Technology & Digital, FT,8:30A-5P","Baptist Health South Florida",3.9,Florida,FL,$117128-$152266
+30d,"(Remote) Marketing Data Scientist - Jacksonville Florida","PenFed Credit Union",3.9,Jacksonville,FL,$47814-$76879
+4d,"Machine Learning Engineer",CyberCoders,4.1,"Miami Beach",FL,$120000-$160000
+24h,"Machine Learning Engineer",Adobe,4.4,Waltham,MA,$97338-$136518
+24h,"Machine Learning Engineer","Cognizant Technology Solutions",3.8,Dearborn,MI,$81526-$111196
+6d,"Senior Statistician","Warman O'Brien",5,Miami,FL,$130000-$150000
+24h,"Senior/Principal Statistical Programmer | Fully Remote","Warman O'Brien",5,Miami,FL,$110000-$150000
+30d,"Advanced Data Analyst","Electronic Arts",4.1,Orlando,FL,$64407-$97171
+1d,"Advanced Data Analyst","National Heritage Academies",3.7,"Grand Rapids",MI,$53087-$75948
+1d,"Data Analyst- Risk and Analytics","Flexshopper Llc",3.4,"Boca Raton",FL,$65411-$93206
+30d,"Director of Data Science - Job Seeker",Indeed,4.4,Raleigh,NC,$253000-$367000
+30d,"Director of Data Science - Job Seeker",Indeed,4.4,Atlanta,GA,$253000-$367000
+30d,"Director of Data Science - Job Seeker",Indeed,4.4,Austin,TX,$253000-$367000
+30d,"Director of Data Science - Job Seeker",Indeed,4.4,Pittsburgh,PA,$253000-$367000
+30d,"Director of Data Science - Job Seeker",Indeed,4.4,Chicago,IL,$253000-$367000
+30d,"Senior Data Scientist - Delivery Insights",Indeed,4.4,Raleigh,NC,$139000-$201000
+30d,"Senior Data Scientist - Delivery Insights",Indeed,4.4,Georgia,GA,$139000-$201000
+30d,"Senior Data Scientist - Delivery Insights",Indeed,4.4,Ohio,OH,$139000-$201000
+6d,"Resource Allocation Analyst","Piedmont Airlines",3.1,Charlotte,NC,$45260-$62290
+30d,"Manager - AI Data Science","Ally Financial",3.6,Charlotte,NC,$96742-$127872
+30d,"(Remote) Marketing Data Scientist - Charlotte North Carolina","PenFed Credit Union",3.9,Charlotte,NC,$55678-$90175
+7d,"Data Scientist - IBM Client Engineering",IBM,4.1,"Research Triangle Park",NC,$84672-$116770
+26d,"Sr. Data Analyst","MATRIX Resources",4.3,Durham,NC,$62884-$86038
+22d,"Sr. Data Analyst","Insight Global",4,Alpharetta,GA,$95000-$125000
+24h,"Signal Processing AI/Machine Learning Engineer",CyberCoders,4.1,Raleigh,NC,$100000-$150000
+2d,"Sr. Data Science Consultant","Duke Energy",4,Charlotte,NC,$82934-$115054
+7d,"Associate Data Analyst- (Remote)",CBRE,4,Charlotte,NC,$50110-$74082
+26d,"Data Reviewer/SRA-Associate Scientist","KBI Biopharma",3.6,Durham,NC,$70000-$90000
+22d,"Sr Data Science Manager",Microsoft,4.4,Charlotte,NC,$107234-$153655
+24h,"Remote Data Visualization Analyst","Susan G. Komen",4.4,Charlotte,NC,$65000-$75000
+30d,"Data Scientist II","Novant Health",3.8,Charlotte,NC,$83835-$119616
+6d,"Data Scientist II","Bank of America",4,Atlanta,GA,$90066-$124870
+12d,"Data Scientist II",Uplight,3.2,Boston,MA,$115000-$130000
+12d,"Data Scientist II",Uplight,3.2,Chicago,IL,$115000-$130000
+6d,"Data Scientist II","Amazon.com Services LLC",3.8,Seattle,WA,$121944-$162798
+30d,"Data Analytics Manager","Implementation Engineers",4.9,Raleigh,NC,$135000-$185000
+30d,"Data Analytics Manager","Implementation Engineers",4.9,Atlanta,GA,$135000-$185000
+4d,"Data Analytics Manager",Verizon,3.9,Alpharetta,GA,$79163-$112576
+30d,"Data Analytics Manager","Implementation Engineers",4.9,Columbus,OH,$135000-$185000
+2d,"REMOTE Lead Data Engineer - Node, SQL, ETL",CyberCoders,4.1,Raleigh,NC,$170000-$200000
+2d,"REMOTE Lead Data Engineer - Node, SQL, ETL",CyberCoders,4.1,Atlanta,GA,$170000-$200000
+28d,"Applied Genetics Scientist-Molecular Breeding",Syngenta,4.2,Durham,NC,$42880-$66993
+30d,"Web Developer, Biostatistics and Data Science","Wake Forest Baptist Health",3.8,Winston-Salem,NC,$67073-$93341
+30d,"Sr Data & Applied Scientist",Microsoft,4.4,Charlotte,NC,$95277-$137121
+24h,"Big Data Developer","Cognizant Technology Solutions",3.8,Davidson,NC,$78169-$109518
+30d,"Research Analyst (Data Science)","APCO Worldwide",3.6,Raleigh,NC,$65178-$89668
+28d,"Head Decision Science",Syngenta,4.2,Durham,NC,$95144-$132889
+14d,"NAM CI Data Analyst",Maersk,4.2,Charlotte,NC,$59820-$81682
+4d,"Decision Scientist","Truist Financial",3.4,Charlotte,NC,$84271-$117647
+30d,"Data Science Engineer","Technology Concepts & Design (TCDI)",4.1,Greensboro,NC,$78991-$120053
+1d,"Data Science Engineer",Ziosk,3.4,Dallas,TX,$86145-$115383
+5d,"Data Science Engineer",OCLC,3.7,Dublin,OH,$84228-$116919
+30d,"Accenture - REPL Data Science Consultant",Accenture,4.1,Raleigh,NC,$68978-$99105
+30d,"Accenture - REPL Data Science Consultant",Accenture,4.1,Detroit,MI,$71588-$100395
+30d,"Accenture - REPL Data Science Consultant",Accenture,4.1,Philadelphia,PA,$70765-$101791
+30d,"Senior Data Science Manager - Search Ranking and Personalization",Indeed,4.4,Atlanta,GA,$198000-$288000
+30d,"Senior Data Science Manager - Search Ranking and Personalization",Indeed,4.4,Boston,MA,$198000-$288000
+1d,"Data Scientist, Marketing & Online (Remote)","The Home Depot",3.8,Atlanta,GA,$90000-$160000
+30d,"Jr. Data Scientist",Deloitte,4,Atlanta,GA,$77726-$108104
+30d,"Jr. Data Scientist",Deloitte,4,Austin,TX,$76759-$107309
+13d,"Jr. Data Scientist","Data-Core System Inc.",3.6,Bristol,PA,$75095-$113493
+1d,"Lead Data Scientist - Online Platforms Reinforcement Learning (Remote)","The Home Depot",3.8,Atlanta,GA,$120000-$240000
+1d,"Senior Data Scientist, Marketing & Online (Remote)","The Home Depot",3.8,Atlanta,GA,$90000-$190000
+1d,"Senior Director, Online Data Science","The Home Depot",3.8,Atlanta,GA,$113047-$160342
+28d,"Sr. Data Engineer","FPT Software",3.9,Atlanta,GA,$96207-$135062
+30d,"Sr. Data Engineer","Bridgestone Americas",3.7,"Brook Park",OH,$91495-$123798
+8d,"Entry Data Analyst","National DCP",2.8,Duluth,GA,$35938-$49780
+2d,"Principal Predictive Modelling and Data Science",DIRECTV,3.8,Atlanta,GA,$115600-$192600
+2d,"Principal Predictive Modelling and Data Science",DIRECTV,3.8,Dallas,TX,$115600-$192600
+2d,"Principal Predictive Modelling and Data Science",DIRECTV,3.8,Philadelphia,PA,$115600-$192600
+2d,"Principal Predictive Modelling and Data Science",DIRECTV,3.8,Seattle,WA,$115600-$192600
+28d,"Power BI Report Developer","Haverty Furniture Companies Inc",3.4,Atlanta,GA,$85000-$100000
+1d,"Sr Product Data Analyst IoT Portal Remote",CyberCoders,4.1,Atlanta,GA,$120000-$160000
+13d,"Data Science Analyst I or II","Mather Economics LLC",4,Atlanta,GA,$63475-$93193
+1d,"Principal Data Scientist, Online Marketing (Remote)","The Home Depot",3.8,Atlanta,GA,$83078-$127478
+27d,"Sr. Performance Analyst-Data Science","Metropolitan Atlanta Rapid Transit Authority (MARTA)",3.1,Atlanta,GA,$60778-$75973
+21d,"Business Intelligence Developer (Remote)","Masco Support Services",3.8,Smyrna,GA,$64922-$98023
+4d,"IT Data Engineer","Boston Consulting Group",4.4,Atlanta,GA,$85999-$116903
+4d,"IT Data Engineer","Boston Consulting Group",4.4,Boston,MA,$91529-$123739
+30d,"Senior Revenue Cycle Data Analyst","Piedmont Healthcare",3.7,Atlanta,GA,$68860-$95091
+30d,"Sr. Big Data Engineers (REMOTE) (JO-2201-146281)","Ledgent Technology",3.9,Atlanta,GA,$140000-$155000
+12d,"Sr Data Science Analyst","Aflac Incorporated",3.9,Columbus,GA,$80225-$115541
+30d,"Federal - Data Scientist (Huntsville, AL)",Accenture,4.1,Atlanta,GA,$85017-$130657
+30d,"Entry Level - Data Analyst","National DCP",2.8,Duluth,GA,$39317-$55889
+24h,"IT Data Analyst Senior",Synovus,3.7,Atlanta,GA,$72002-$94524
+10d,"Data Scientist (Remote)",Epsilon,3.9,Atlanta,GA,$75568-$111008
+14d,"Senior Data & Applied Scientist",Microsoft,4.4,Atlanta,GA,$98096-$145001
+30d,"Sr. Product Data Analyst","SiteOne Landscape Supply",3.9,Roswell,GA,$51396-$70099
+4d,"Senior-Data Scientist",AT&T,3.7,Atlanta,GA,$66204-$94760
+30d,"Consultant Data Analyst",WNA-LTD.com,3,Atlanta,GA,$70000-$110000
+28d,"Analyst - GAMMA","Boston Consulting Group",4.4,Boston,MA,$70080-$101062
+30d,"Data Analytics Engineer",Bose,3.7,Framingham,MA,$84988-$110396
+30d,"Data Science Lead - Remote","Press Ganey Associates Inc.",3.5,Boston,MA,$87155-$124881
+24h,"Team Lead, Data Science","Fidelity Investments",4.3,Boston,MA,$91461-$138501
+6d,"Data Engineer - Biologics",Merck,4.1,Cambridge,MA,$75803-$102728
+4d,"Associate Analyst, Data Analytics and Insights","Fidelity Investments",4.3,Boston,MA,$69852-$96893
+30d,"Data Scientist - Cheminformatics",Pfizer,4.1,Cambridge,MA,$91574-$135527
+15d,"Sr. Associate, Data Science",Santander,3.6,Boston,MA,$99865-$148237
+1d,"Associate Director, Advanced Analytics & Data Automation",Moderna,3.9,Cambridge,MA,$78749-$109636
+30d,"Sr. Data Analyst, Media Analytics","Procter & Gamble",4.2,Boston,MA,$76720-$104406
+30d,"Staff Data Scientist","Gradient AI",4.7,Boston,MA,$130000-$185000
+30d,"Sr. Principal Data Scientist - Pharma Manufacturing","Vertex Pharmaceuticals",4.1,Boston,MA,$110766-$156567
+6d,"HR People Strategy and Analytics, Analyst","Vertex Pharmaceuticals",4.1,Boston,MA,$81868-$121147
+26d,"Senior Data Engineer","New Age Software Services Inc",3.1,Webster,MA,$115000-$135000
+30d,"Research Data Analyst","Groe Advisors",4.6,Sudbury,MA,$80000-$150000
+12d,"Hardware Data Analytics Co-op ","Amazon.com Services LLC",3.8,"North Reading",MA,$62443-$91926
+30d,"Sr. Data Scientist","Amazon.com Services LLC",3.8,Cambridge,MA,$95118-$140370
+5d,"Sr. Data Scientist","Amazon.com Services LLC",3.8,Seattle,WA,$91906-$135289
+18d,"Embedded Data Scientist, Private Investments","Wellington Management",4.4,Boston,MA,$83265-$124360
+30d,"Data Scientist - Machine Learning","Boston Children's Hospital",4,Boston,MA,$91000-$125000
+30d,"Data & Analytics Manager, Geo Analytics - BCG GAMMA","Boston Consulting Group",4.4,Boston,MA,$105187-$143091
+1d,"Data Scientist, Insights & Analytics","Takeda Pharmaceutical",4,Boston,MA,$84709-$116016
+1d,"Data Scientist, Insights & Analytics","Takeda Pharmaceutical",4,Philadelphia,PA,$82331-$113672
+30d,"Data Enablement Lead Analyst","Boston Consulting Group",4.4,Boston,MA,$85360-$132423
+30d,"SENIOR PRODUCT MANAGER, DATA SCIENCE",DraftKings,4.2,Boston,MA,$114582-$159066
+30d,"Sr. Manager, Data Science",ButcherBox,4.7,Boston,MA,$98061-$144117
+30d,"Scientist II, Data Science","Wave Life Sciences",3.7,Cambridge,MA,$95360-$134742
+30d,"Data Scientist, EFS","Amazon Dev Center U.S. Inc.",3.8,Boston,MA,$102515-$141130
+3d,"DevOps Cloud Engineer (Remote)",CyberCoders,4.1,Boston,MA,$160000-$200000
+26d,"Research Software Engineer, Data Science","Dana-Farber Cancer Institute",4,Boston,MA,$84148-$124080
+30d,"Data Scientist, Data Quality Engineer",InsideTracker,4.2,Cambridge,MA,$95814-$128249
+5d,"Data Analyst II (Remote Eligible)","Massachusetts General Hospital(MGH)",4,Charlestown,MA,$41810-$57130
+24h,"Data Scientist, Pharmaceutical CMC Digitalization","Takeda Pharmaceutical",4,Lexington,MA,$91739-$139207
+19d,"Data Scientist (Remote Option)","University of Michigan",4.4,"Ann Arbor",MI,$70000-$75000
+30d,"Data Analyst/Statistician","US Department of Veterans Affairs",3.7,"Ann Arbor",MI,$59656-$82781
+30d,"Data Development Statistician","State of Michigan",3.8,Lansing,MI,$58842-$80550
+30d,"Data Development Statistician","State of Michigan",3.8,,MI,$58842-$80550
+5d,"Data Science & Analytics Manager",Razorfish,4.2,Birmingham,MI,$90326-$123997
+5d,"Data Science & Analytics Manager",Razorfish,4.2,Chicago,IL,$95517-$132479
+15d,"Business Intelligence Analyst - Tableau (100% Remote in US)",ArborMetrix,4.3,"Ann Arbor",MI,$61183-$85911
+26d,"Data Analyst Consultant","MI-GSO | PCUBED",3.7,Southfield,MI,$58680-$77260
+28d,"AI/ML Center of Excellence - AVP, Data Science",Deloitte,4,Detroit,MI,$68617-$101120
+28d,"Investigative Data Analyst","Blue Cross Blue Shield of Michigan",3.6,Detroit,MI,$52406-$76160
+27d,"Investigative Data Analyst","Emergent Holdings",3.5,Detroit,MI,$51195-$76543
+30d,"Data & Performance Specialist - Youth Programs","Detroit Employment Solutions Corporation",3.8,Detroit,MI,$42237-$61695
+30d,"Healthcare Data Scientist / Senior Healthcare Data Analyst (100% Remote US Only)",ArborMetrix,4.3,"Ann Arbor",MI,$55602-$86234
+30d,"Business Data Analyst","KLA Corporation",4,"Ann Arbor",MI,$80000-$125000
+28d,"Data Scientist/ML Ops Engineer",Brvoel,2.6,Southfield,MI,$78851-$116497
+20d,Statistician,"University of Michigan",4.4,"Ann Arbor",MI,$65000-$90000
+30d,"Staff Product Scientist - Enterprise Ads Relevance",Indeed,4.4,Detroit,MI,$122000-$178000
+30d,"Analytics and Insights - Data Science Lead",Rightpoint,4.2,Detroit,MI,$85898-$118502
+30d,"SQL Expert Analyst (REMOTE)","Emergent Holdings",3.5,Southfield,MI,$53894-$78303
+3d,"Financial Analyst","Pinnacle Inc.",5,Troy,MI,$50575-$69613
+21d,"Controls and Data Science Engineer",BorgWarner,3.8,"Auburn Hills",MI,$78903-$100930
+24h,"Associate Director, Analytics-GM","Dentsu Media",2.1,Southfield,MI,$94000-$146000
+27d,"AI & Data Architecture Specialist Master",Deloitte,4,Detroit,MI,$87843-$122771
+30d,"Analytics Engineer / Data Engineer","Blue Cross Blue Shield of Michigan",3.6,Detroit,MI,$83250-$104154
+30d,"Data Science Manager",Indeed,4.4,Austin,TX,$164000-$238000
+21d,"Data Science Manager",Indeed,4.4,Cincinnati,OH,$164000-$238000
+30d,"Data Science Manager","Maronda Homes",2.8,Imperial,PA,$75366-$118128
+1d,"Data Science Manager",OTSI,4.6,"Oakbrook Terrace",IL,$77836-$140000
+21d,"Data Science Manager","Amazon.com Services LLC",3.8,Seattle,WA,$118286-$164450
+6d,"Data Engineer III - Data Science - Remote","C.H Robinson",3.7,Austin,TX,$78749-$113726
+6d,"Data Engineer III - Data Science - Remote","C.H Robinson",3.7,Chicago,IL,$75885-$110519
+30d,"Data Science Trainee","Cintra US Services LLC",3.5,Austin,TX,$56114-$79921
+5d,"Data Scientist, Operations AI R&D","Amazon.com Services LLC",3.8,Austin,TX,$95121-$133232
+14d,"Federal - Data Scientist",Accenture,4.1,"San Antonio",TX,$88100-$123400
+24d,"FAST Data Science Associate","JPMorgan Chase Bank N.A.",3.7,Plano,TX,$54543-$77182
+30d,"Data Scientist - Advanced Analytics","State Farm",3.6,Richardson,TX,$69115-$169250
+12d,"Looking for Data scientist","RD Solutions INC",4.4,"Texas City",TX,$62169-$100975
+30d,"Senior Business Intelligence Analyst",Indeed,4.4,Austin,TX,$113000-$165000
+1d,"Data Analyst - Pricing & Analysis","McLane Companies",3.2,Temple,TX,$63646-$85118
+5d,"Data and AI",IBM,4.1,Austin,TX,$65618-$99416
+30d,"Senior Data Scientist - AI Ethics",Indeed,4.4,Austin,TX,$139000-$201000
+30d,"Marketing Data Scientist - San Antonio Texas","PenFed Credit Union",3.9,"San Antonio",TX,$44339-$69516
+5d,"Financial Data Analyst","The HT Group",4.3,Austin,TX,$70000-$80000
+12d,"Product Science Manager",Indeed,4.4,Austin,TX,$154000-$224000
+12d,"Product Science Manager",Indeed,4.4,Seattle,WA,$154000-$224000
+30d,"Jr. Data Analyst",PepsiCo,3.9,Plano,TX,$49192-$68763
+30d,"Jr. Data Analyst",PepsiCo,3.9,Chicago,IL,$48801-$67540
+6d,"Data Scientist 2","The Coca-Cola Company",4,Plano,TX,$84269-$120581
+24h,"Data Visualization Lead","JPMorgan Chase Bank N.A.",3.7,Plano,TX,$69212-$101891
+30d,"Data Developer/Analyst - Entry Level","Winzer Corp",3,Plano,TX,$56071-$78394
+1d,"AWS Data Engineer","Cognizant Technology Solutions",3.8,Plano,TX,$86208-$123151
+30d,"Data Analyst Personal Systems",HP,4.2,Spring,TX,$65596-$100140
+9d,"Data Analyst II",Cvent,3.8,Austin,TX,$66556-$92140
+1d,"Femcare R&D Data Scientist","Procter & Gamble",4.2,Cincinnati,OH,$101148-$151007
+30d,"Research Fellow - Artificial Intelligence","Cincinnati Children's Hospital Medical Center",4,Cincinnati,OH,$61586-$90435
+30d,"Digital Solutions Data Scientist","Bridgestone Americas",3.7,Akron,OH,$79622-$113538
+3d,"Senior Master Data Analyst","Nestle USA",4,Solon,OH,$60370-$81471
+1d,"Advanced Analytics Capability Innovation Manager","Procter & Gamble",4.2,Cincinnati,OH,$74250-$111011
+30d,"Quality Engineering Data Science Co-Op- Fall 2022","Johnson & Johnson",4.2,Cincinnati,OH,$63910-$92867
+24h,"Research and Development Engineer","Procter & Gamble",4.2,Mason,OH,$83567-$121866
+30d,"Co-op - Clean Products Value Chain","Marathon Petroleum Company LP",3.5,Findlay,OH,$55438-$82890
+17d,"Strategic Data Analytics","JPMorgan Chase Bank N.A.",3.7,Delaware,OH,$78649-$112292
+30d,"Statistician-Data Analyst I","FIS Global",3.8,Cincinnati,OH,$52307-$72357
+24h,"Data Scientist 1","Case Western Reserve University",4,Cleveland,OH,$63229-$85904
+5d,"Director, Data Warehousing & Data Analytics","Emerald Resource Group",4.5,Beachwood,OH,$170000-$250000
+14d,"Slot Mathematician","Arrow International",3.1,Cleveland,OH,$51906-$71122
+25d,"Data Scientist/Senior Machine Learning",Nexient,4,Columbus,OH,$83495-$117179
+30d,"Data Science Analyst I-IV - Hybrid / Remote","Medical Mutual of Ohio",4,Brooklyn,OH,$50318-$70793
+30d,"Data Science Specialist","Parker Hannifin Corporation",3.8,Cleveland,OH,$60166-$90741
+5d,"Consumer & Market Knowledge","Procter & Gamble",4.2,Cincinnati,OH,$67256-$104801
+30d,"Data Science, Specialist Master - Applied Artificial Intelligence",Deloitte,4,Cleveland,OH,$70594-$101757
+30d,"GIS Data Analyst",Stantec,3.9,Cincinnati,OH,$47005-$62428
+30d,"Predictive Analytics Data Scientist","Great American Insurance Group",4.3,Cincinnati,OH,$78949-$108063
+30d,"R&D 1TPT - Data Science Fall Co-op","Procter & Gamble",4.2,Mason,OH,$78370-$120167
+26d,"Data Analyst Senior - Remote",Progressive,3.8,Mayfield,OH,$66300-$88400
+30d,"Data Scientist / Statistics","NASK Incorporated",3.4,Kettering,OH,$80000-$120000
+12d,"Data Scientist or Data Scientist Senior.",Progressive,3.8,Mayfield,OH,$66300-$107000
+24h,"VP, Data Science",Comcast,3.9,Philadelphia,PA,$114553-$167824
+30d,"Sr. Director, Data Science",Comcast,3.9,Philadelphia,PA,$106428-$153045
+30d,"ML Data Linguist, Search Science and AI","Amazon.com Services LLC",3.8,Pennsylvania,PA,$58000-$58300
+30d,"Safety Data Scientist-Signal Detection","ClinChoice Inc",4.4,"Fort Washington",PA,$58504-$89999
+30d,"Data Science & Analytics Associate Director",Merck,4.1,Kenilworth,NJ,$94806-$132271
+8d,"Applied Data Science Analyst","Webstaurant Store Inc.",4,Lititz,PA,$60000-$110000
+30d,"Data Review Associate Scientist","Eurofins USA BioPharma Services",3.4,Lancaster,PA,$39634-$58773
+30d,"Data Analyst, BrandImpact",IQVIA,4,Wayne,PA,$56096-$75078
+30d,"Data Engineer - Vaccine","Sanofi US",3.9,Swiftwater,PA,$75005-$119298
+28d,"Data Scientist, Educational Assessment","Carnegie Learning",3.8,Pittsburgh,PA,$85000-$95000
+24h,"Senior Data and Analytics Engineer","Foot Locker",3.6,Pittsburgh,PA,$82167-$112601
+5d,"Manager Analytical Chemist - Vaccine","Sanofi US",3.9,Swiftwater,PA,$74620-$115128
+26d,"Data & Statistical Analyst I",ProAssurance,3.1,Lancaster,PA,$54766-$76986
+21d,"Data Scientist/ Machine Learning Engineer ","Liberty Personnel Services",4.4,Philadelphia,PA,$130000-$150000
+30d,"Senior Data Engineer, NAMR People Team","Boston Consulting Group",4.4,Philadelphia,PA,$90666-$137529
+2d,"RWE Principal Data Scientist","Takeda Pharmaceutical",4,Easton,PA,$105930-$154824
+1d,"Analyst, eCommerce Analytics",Comcast,3.9,Philadelphia,PA,$68299-$94197
+30d,"Senior Data Science Manager",Indeed,4.4,Pittsburgh,PA,$198000-$288000
+30d,"Senior Data Science Manager",Indeed,4.4,Seattle,WA,$213000-$309000
+30d,"Data Scientist/Engineer","Air Products",4,Allentown,PA,$59557-$90797
+7d,"Director, Data Engineering",Cadent,3,Philadelphia,PA,$120766-$174251
+19d,"Data Analyst- Remote Opportunity","GuideOne Insurance",2.9,Philadelphia,PA,$51403-$74403
+30d,"Data Engineer 3",Comcast,3.9,Philadelphia,PA,$94927-$126252
+30d,"NLP Data Scientist","Amazon.com Services LLC",3.8,Pittsburgh,PA,$88913-$123266
+30d,"Solution Architect","BMO Harris Bank",3.7,Naperville,IL,$89982-$136049
+1d,"Data Engineer II","Horizon Therapeutics",4,"Highland Park",IL,$88697-$112379
+30d,"Senior Solution Analyst ","Boston Consulting Group",4.4,Chicago,IL,$83959-$127276
+30d,"Principal Data Analyst",Discover,3.9,Riverwoods,IL,$93366-$125325
+24h,"Data Scientist 2-3 ","Mitchell International",2.9,Grove,IL,$62730-$96983
+30d,"Data & Analytics Lead","Boston Consulting Group",4.4,Chicago,IL,$92240-$126242
+30d,"Data & Analytics Manager","Boston Consulting Group",4.4,Chicago,IL,$98727-$135298
+27d,Analyst,"Boston Consulting Group",4.4,Chicago,IL,$64613-$95425
+2d,"Principal Predictive Modelling",DIRECTV,3.8,Chicago,IL,$115600-$192600
+18d,"Part-Time Student-Data Scientist","John Deere",4.1,Champaign,IL,$63192-$96289
+4d,"Customer Data Product Analyst",ALDI,3.5,Aurora,IL,$51589-$73474
+30d,"Senior Business Data Analyst",Discover,3.9,Riverwoods,IL,$77653-$98300
+30d,"Analyst, Geo Analytics","Boston Consulting Group",4.4,Chicago,IL,$69749-$107561
+24h,"Sr Data Scientist",CyberCoders,4.1,Evanston,IL,$130000-$160000
+30d,"Data Engineer, Data & Analytics","Fortune Brands",4.3,Deerfield,IL,$78353-$111151
+30d,"Senior Data Scientist - Ranking Team",Indeed,4.4,Chicago,IL,$147000-$213000
+30d,"Data Scientist Associate","Edward-Elmhurst Health",3.8,Warrenville,IL,$70296-$99782
+30d,"CAT Modeler/Data Analyst","Core Specialty Insurance",3.8,Chicago,IL,$58594-$88688
+27d,"Clinical Data Analyst GRANT - Full-time","Rush University Medical Center",3.9,Chicago,IL,$57108-$85175
+9d,"Data Engineer - Data Science",Photon,4,Chicago,IL,$87466-$122949
+24h,"Director Data Science","Cardinal Path",3.1,Chicago,IL,$113000-$174500
+20d,"Product Manager- Data Science/Optimization","Marin Software",3.6,Chicago,IL,$100000-$190000
+26d,"RWD Data Scientist",ABBVIE,3.9,"Crystal Lake",IL,$117556-$170971
+30d,"Associate, Data Science","Stax Inc",4.6,Chicago,IL,$74734-$111462
+1d,"Commercial Bank - Data Scientist","JPMorgan Chase Bank N.A.",3.7,Chicago,IL,$59545-$91609
+30d,"Analytics Consultant","Blue Cross Blue Shield",3.6,Chicago,IL,$71455-$102840
+27d,"Lead Data Science",Discover,3.9,Riverwoods,IL,$84462-$110463
+29d,"Manager Data Science",Discover,3.9,Riverwoods,IL,$84312-$115303
+30d,"Principal Data Science Analyst",Discover,3.9,Riverwoods,IL,$96125-$126024
+1d,"Senior Data Science Analyst",Discover,3.9,Riverwoods,IL,$79046-$99726
+13d,"Entry level Data Engineer","Antra Inc",4.5,Naperville,IL,$62000-$68000
+8d,"Principal Data Scientist",Indeed,4.4,Seattle,WA,$213000-$309000
+27d,"Principal Data Scientist",Microsoft,4.4,Bellevue,WA,$139856-$188338
+24h,"Data Engineer, Data Engineer",Amazon.com,3.8,Seattle,WA,$104418-$147744
+20d,"Reporting Data Analyst",Symetra,3.8,Bellevue,WA,$65300-$108800
+30d,"Data Analytics Manager - Remote",Symetra,3.8,Bellevue,WA,$108000-$159100
+24h,"Applied Scientist",Amazon.com,3.8,Seattle,WA,$102750-$156572
+2d,"Applied Scientist",Amazon.com,3.8,Seattle,WA,$103329-$151572
+18d,"Data Collection Specialist","Amazon.com Services LLC",3.8,Bellevue,WA,$51896-$69552
+24h,"Data Science","Pacific Northwest National Laboratory",4.1,Richland,WA,$52551-$87308
+4d,"Software Engineer III",ExtraHop,4.3,Seattle,WA,$105297-$143480
+30d,"Manager of Data Science","The Trade Desk",4.3,Seattle,WA,$154300-$308600
+21d,"Jr Data Analyst","SEIU 775 Benefits Group",2.8,Seattle,WA,$83350-$114569
+24h,"Director, Data Analytics",Microsoft,4.4,Redmond,WA,$122709-$170225
+13d,"Data Scientist II - Uber Freight",Uber,4,Seattle,WA,$88927-$134803
+30d,Researcher,Microsoft,4.4,Redmond,WA,$105834-$160868
+1d,"data analyst Sr.",Starbucks,3.8,Seattle,WA,$87490-$123494
+6d,"Senior Data Scientist - Future of Work",Microsoft,4.4,Redmond,WA,$118446-$166174
+30d,"Data /Software Engineers","Ars Quanta",5,Seattle,WA,$89751-$132734
+30d,"Machine Learning Data Associate","Amazon.com Services LLC",3.8,Seattle,WA,$78352-$118397
+5d,"Data Scientist-Risk Mining","Amazon.com Services LLC",3.8,Seattle,WA,$102900-$139882
+30d,"Data & Applied Scientist",Microsoft,4.4,Redmond,WA,$87696-$134207
+1d,"Data & Applied Scientist",Microsoft,4.4,Redmond,WA,$95746-$145374
+30d,"Remote AWS Data Engineer",IBM,4.1,Seattle,WA,$92953-$132039
+24h,"Data Engineer, BI Manager",Amazon.com,3.8,Seattle,WA,$99176-$144949
+24h,"Applied Scientist, Machine Learning Attribution",Amazon.com,3.8,Seattle,WA,$96248-$147066
+19d,"Product Manager - Job Requirements",Indeed,4.4,Seattle,WA,$108000-$157000
+24h,"Business Intelligence Engineer II",Amazon.com,3.8,Seattle,WA,$112924-$146908
+5d,"Director of Supportability",Microsoft,4.4,Issaquah,WA,$76386-$114723
+5d,"Data Scientist III Advanced Analytics","Kaiser Permanente",3.9,Renton,WA,$94891-$127384
+30d,"Cloud Specialist - Data & AI",Microsoft,4.4,Redmond,WA,$90976-$130635
+12d,"Customer Engineer, Big Data",Microsoft,4.4,Issaquah,WA,$97319-$143557
+30d,"Sr. Scientist, Data Science",Evotec,3.6,Seattle,WA,$95608-$139833

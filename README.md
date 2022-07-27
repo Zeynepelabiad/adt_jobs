@@ -11,6 +11,12 @@ Only authorized users in the database can do CRUD operations on the web applicat
 The admin user can add a new job and edit or remove a record. 
 Normal users can select a specific state and view the available jobs in their preferred state. They can also view the available visualization from the visualization page.
 
+# Tools: 
+Front End: HTML, CSS, JavaScript, Bootstrap
+Back End: Flask, Python, MySQL, Beautiful Soup
+IDE: Visual Studio Code, Spyder Python, Jupyter Notebook, Sublime Text
+
+
 # Reference
 
 1) https://www.glassdoor.com
